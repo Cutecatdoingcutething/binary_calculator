@@ -19,4 +19,6 @@ This Binary Calculator works by state with 7 states
 6. State S6 : Select Operator to calculate (+ - * /)
 7. State S7 : Display result on 7-segments with decimal
 
-![Image Alt](https://github.com/Cutecatdoingcutething/binary_calculator/blob/main/nothing/LOGO-KMUTNB.png | width=100)
+<p align="center">
+  <img width="100" height="100" src="[https://picsum.photos/460/300](https://github.com/Cutecatdoingcutething/binary_calculator/blob/main/nothing/LOGO-KMUTNB.png)">
+</p>
