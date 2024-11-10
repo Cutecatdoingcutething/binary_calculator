@@ -28,5 +28,5 @@ Each state progresses sequentially, with the calculator using a state machine to
 
 <h5 align="center">COMPUTER ENGINEERING<br>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK, A.Y. 2023/26</h5>
 <p align="center">
-  <img width="100" height="100" src="https://www.eng.kmutnb.ac.th/wp-content/uploads/2019/08/LOGO-KMUTNB--300x300.png">
+  <img width="100" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eng.kmutnb.ac.th%2Fdownload%2F&psig=AOvVaw3foJjaX2O-kJJD10UUFrvr&ust=1731344425587000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCez9ye0okDFQAAAAAdAAAAABAE">
 </p>
