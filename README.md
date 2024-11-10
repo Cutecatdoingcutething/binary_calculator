@@ -11,10 +11,10 @@ It has basic functions about calculation
 
 # Procedure
 This Binary Calculator works by state with 7 states
-State S1 : FPGA display 7-segment as start state that let you know it's begin state
-State S2 : Input A (Signed Binary)
-State S3 : Store A in memory
-State S4 : Input B (Signed Binary)
-State S5 : Store B in memory
-State S6 : Select Operator to calculate (+ - * /)
-State S7 : Display result on 7-segments with decimal
+1. State S1 : FPGA display 7-segment as start state that let you know it's begin state
+2. State S2 : Input A (Signed Binary)
+3. State S3 : Store A in memory
+4. State S4 : Input B (Signed Binary)
+5. State S5 : Store B in memory
+6. State S6 : Select Operator to calculate (+ - * /)
+7. State S7 : Display result on 7-segments with decimal
