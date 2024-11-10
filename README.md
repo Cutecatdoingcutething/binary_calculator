@@ -20,5 +20,5 @@ This Binary Calculator works by state with 7 states
 7. State S7 : Display result on 7-segments with decimal
 
 <p align="center">
-  <img width="300" height="300" src="[https://picsum.photos/460/300](https://github.com/Cutecatdoingcutething/binary_calculator/blob/main/nothing/LOGO-KMUTNB.png)">
+  <img width="100" height="100" src="https://github.com/Cutecatdoingcutething/binary_calculator/blob/main/nothing/LOGO-KMUTNB.png">
 </p>
