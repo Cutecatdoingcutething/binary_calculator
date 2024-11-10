@@ -18,3 +18,5 @@ This Binary Calculator works by state with 7 states
 5. State S5 : Store B in memory
 6. State S6 : Select Operator to calculate (+ - * /)
 7. State S7 : Display result on 7-segments with decimal
+
+![Image Alt](https://github.com/Cutecatdoingcutething/binary_calculator/blob/main/nothing/LOGO-KMUTNB.png | width=100)
