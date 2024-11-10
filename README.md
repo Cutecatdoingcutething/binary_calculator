@@ -18,8 +18,3 @@ State S4 : Input B (Signed Binary)
 State S5 : Store B in memory
 State S6 : Select Operator to calculate (+ - * /)
 State S7 : Display result on 7-segments with decimal
-
-<p align="center">
-  <img src="[URLของรูป](https://github.com/Cutecatdoingcutething/binary_calculator/blob/main/nothing/LOGO-KMUTNB.png)" alt="" width="300">
-</p>
-
